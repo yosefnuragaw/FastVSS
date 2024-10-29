@@ -1,0 +1,8 @@
+*.pkl
+*.pt
+*.model
+*.npy
+*.csv
+*.bin
+stanza_resources/
+__pycache__/
