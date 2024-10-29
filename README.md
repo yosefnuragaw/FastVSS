@@ -9,6 +9,6 @@ The members of the team:
 
 The main idea of this solution is to utilize hyperdimensional computing to elevate faster retrieval methods that can acquire context. 
 
-Technical details of the project is available on the:
+Technical details of the project:
 - Technical report (Indonesian)
 - Presentation deck (English and Indonesian)
