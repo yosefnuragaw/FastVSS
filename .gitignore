@@ -4,5 +4,6 @@
 *.npy
 *.csv
 *.bin
+*.ipynb
 stanza_resources/
 __pycache__/
