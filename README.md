@@ -7,11 +7,7 @@ The members of the team:
 - <a href='https://www.linkedin.com/in/viansebastianbromokusumo/'>Vian Sebastian Bromokusumo</a>
 - <a href ='https://www.linkedin.com/in/louis-widi-anandaputra-90008815a/'>Louis Widi Anandaputra</a>
 
-The main idea of this solution is to utilize hyperdimensional computing to elevate faster retrieval methods that can acquire context. 
-
-Technical details of the project:
-- Technical report (Indonesian)
-- Presentation deck (English and Indonesian)
+The main idea of this solution is to utilize hyperdimensional computing to elevate faster retrieval methods that can acquire context.  
 
 
 Initialize product vector
